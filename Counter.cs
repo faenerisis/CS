@@ -1,9 +1,3 @@
-using System;
-
-namespace ConsoleApp1
-{
-    class Program
-    {
         static void Main(string[] args)
         {
             String str1 = Console.ReadLine();
@@ -189,5 +183,3 @@ namespace ConsoleApp1
                 Console.WriteLine(include + " times 0.");
             }
         }
-    }
-}
